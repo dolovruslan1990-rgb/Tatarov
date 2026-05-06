@@ -1,1 +1,3 @@
-git init
+expenses.json
+__pycache__/
+*.pyc
